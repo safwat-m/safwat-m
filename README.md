@@ -12,7 +12,7 @@ Freelance full‑stack developer with 10+ years building web and mobile apps for
 ![](https://nirzak-streak-stats.vercel.app/?user=safwat-m&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=safwat-m&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
